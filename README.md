@@ -17,7 +17,7 @@ Expense Tracker is a simple Flutter application designed to help you keep track 
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/AnmarSammour/expense_tracker
 ```
 
 2. Navigate to the project directory:
